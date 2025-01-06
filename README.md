@@ -27,6 +27,8 @@ The following R libraries were utilized for data manipulation and visualization:
 
 4. **Maternal Mortality Ratio Heatmap**  
    - Shows the maternal mortality ratio (modeled estimate per 100,000 live births) for each country and year.  
+## Visualization
+![Dashboard.png](Dashboard.png)
 
 ## Usage  
 1. **Install Required Libraries**  
